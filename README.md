@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syalabi-seet
+- 👋 Hi, I’m Syalabi Seet
 - 👀 I’m interested in Computer Vision and Genetic Algorithms
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on 
