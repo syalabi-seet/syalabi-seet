@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syalabi Seet
-- 👀 I’m interested in Reinforcement learning and busy researching to make autonomous drone delivery a reality.
+- 👀 I’m interested in Reinforcement learning and anything related to Deep Learning.
 
 <!---
 syalabi-seet/syalabi-seet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
